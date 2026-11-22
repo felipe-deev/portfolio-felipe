@@ -13,8 +13,5 @@ Abra a pasta no VS Code e clique com o botão direito em `index.html` → **Open
 - `assets/foto.jpg` – foto de perfil
 - `assets/capa.png` – imagem que aparece quando o link é compartilhado (LinkedIn, WhatsApp)
 
-## Publicar no GitHub Pages
-1. Crie um repositório público chamado `felipe-deev.github.io`.
-2. Envie o conteúdo desta pasta (o `index.html` precisa ficar na raiz).
-3. Em Settings → Pages, escolha a branch `main` e a pasta `/ (root)`.
-4. O site fica em https://felipe-deev.github.io
+## Site publicado
+https://felipe-deev.github.io/portfolio-felipe/
