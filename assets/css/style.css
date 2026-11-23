@@ -75,7 +75,3 @@ footer{padding:20px max(5vw,16px);font-size:13px;color:var(--mute);text-align:ce
 :root[data-theme=dark] .theme .sun{display:block}:root[data-theme=dark] .theme .moon{display:none}
 
 
-/* partículas */
-#fx{position:fixed;inset:0;width:100vw;height:100vh;pointer-events:none;z-index:4}
-.fxh{opacity:0}
-.fxs{transition:opacity .35s ease}
